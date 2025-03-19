@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram id="tMzfLDKoErjrVGlrAt34" name="Strona-1">
+    <mxGraphModel dx="1509" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BVznn--uKVZ5twI5qAsz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="190" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="BVznn--uKVZ5twI5qAsz-2" value="Firma IT&lt;div&gt;&#39;VSparcie&#39;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVznn--uKVZ5twI5qAsz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="BVznn--uKVZ5twI5qAsz-4" target="BVznn--uKVZ5twI5qAsz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVznn--uKVZ5twI5qAsz-4" value="Recepcjonistka&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BVznn--uKVZ5twI5qAsz-9" value="&lt;div&gt;użytkownik&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BVznn--uKVZ5twI5qAsz-13" value="&lt;div&gt;Administrator Systemu&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BVznn--uKVZ5twI5qAsz-16" value="Technik&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BVznn--uKVZ5twI5qAsz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BVznn--uKVZ5twI5qAsz-4" target="BVznn--uKVZ5twI5qAsz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVznn--uKVZ5twI5qAsz-18" value="Diagram przypadków użycia" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVznn--uKVZ5twI5qAsz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.424;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="BVznn--uKVZ5twI5qAsz-16" target="BVznn--uKVZ5twI5qAsz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVznn--uKVZ5twI5qAsz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BVznn--uKVZ5twI5qAsz-16" target="BVznn--uKVZ5twI5qAsz-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
